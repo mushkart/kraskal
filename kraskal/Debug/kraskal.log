@@ -1,0 +1,6 @@
+﻿  kraskal.cpp
+C:\Users\Мушка\source\repos\kraskal\kraskal\kraskal.cpp(18,2): warning C4091: typedef : пропускается слева от "Tree", когда ни одна переменная не объявлена
+C:\Users\Мушка\source\repos\kraskal\kraskal\kraskal.cpp(20,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Source.cpp
+  Создание кода...
+  kraskal.vcxproj -> C:\Users\Мушка\source\repos\kraskal\Debug\kraskal.exe
